@@ -1,0 +1,12 @@
+name = "Mp Custom Fabric"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ac8c4355406be707fdace2ed6f66cd18d30b633ed19e38a80b0c82acd702aba7"
+
+[versions]
+fabric = "0.15.3"
+minecraft = "1.20.4"
